@@ -14,5 +14,5 @@ This repository contains a Power BI dashboard to analyze online retail performan
 - [Power BI Desktop](https://powerbi.microsoft.com/desktop/) to open the `.pbix` file.
 
 ## Preview
-![Dashboard Preview](.png)
+![Dashboard Preview](online.png)
 
